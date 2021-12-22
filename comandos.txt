@@ -1,0 +1,13 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Controles:
+
+#Ctrl + d (Activar/Desactivar SuperPortapapeles)
+
+#Ctrl + f (Vaciar el portapapeles)
+
+#Ctrl + c (Añadir texto al portapapeles)
+#Ctrl + x (Añadir texto al portapapeles)
+
+#Ctrl + b (Ver el contenido del portapapeles)
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
