@@ -58,7 +58,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 ## Autores ✒️
 
 
-* **Lil_Homer** - *Trabajo Inicial* - (https://github.com/Lil-Homer)
+* [**Lil_Homer**](https://github.com/Lil-Homer) - *Trabajo Inicial* - 
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
