@@ -21,8 +21,7 @@ _Python 3.9.7(Funciona correctamente)_
 ## Autores ✒️
 
 
-* **Lil_Homer** - *Programador principal* - (https://github.com/Lil-Homer)
-
+* [**Lil_Homer**](https://github.com/Lil-Homer) - *Programador principal* -
 ## Agradecimientos 🎁
 
 * Comenta a otros sobre este proyecto 📢
