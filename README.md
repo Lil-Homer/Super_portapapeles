@@ -118,5 +118,3 @@ py -m pip install pynput
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Muchas gracias por hacer esto posible 🤓.
 
-
->>>>>>> 6aacd311247b9dcd50b54960f57f2e65ecb747f8
