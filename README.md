@@ -1,5 +1,3 @@
-
-=======
 # SuperPortapapeles Python🚀
 
 _Portapapeles modificado con varias funcionalidades nuevas_
