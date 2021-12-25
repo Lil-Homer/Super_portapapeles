@@ -29,7 +29,7 @@ def accion():
             print("MODO SUPERPORTAPAPELES OFF")
     elif memoria[-1]=="'\\x03'" or memoria[-1]=="'\\x18'" or memoria[-3:]==["Key.ctrl_l","Key.alt_l","'x'"]: #Ctrl + c o Ctrl + x
         if marcador==1:
-##            time.sleep(0.5)
+            time.sleep(0.5)
             t = pyp.paste()
             portapapeles+=t
             pyp.copy(portapapeles)
